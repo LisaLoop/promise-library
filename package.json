@@ -1,0 +1,14 @@
+{
+  "name": "promiselib",
+  "version": "1.0.0",
+  "description": "- This project uses `node-gyp` which is a tool for connecting C++ with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ME",
+  "license": "ISC",
+  "dependencies": {
+    "node-gyp": "^4.0.0"
+  }
+}

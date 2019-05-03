@@ -1,0 +1,1 @@
+./node_modules/.bin/node-gyp build && node test.js
